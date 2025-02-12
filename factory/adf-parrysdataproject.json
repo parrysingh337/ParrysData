@@ -1,0 +1,9 @@
+{
+	"name": "adf-parrysdataproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a0a5703-46bf-4239-bde0-8310387a6fac",
+		"tenantId": "74141873-5446-485d-b4cc-f134bba57611"
+	}
+}
